@@ -48,6 +48,7 @@ Adding results of a game
 .. code-block::
 
     !elo add pingpong jrobison helga
+    helga> jrobison now has 805 elo, helga has 795 elo
 
 See player rating
 -----------------
@@ -55,7 +56,7 @@ See player rating
 .. code-block::
 
     !elo pingpong jrobison
-    helga> jrobison has 1600 elo for pingpong
+    helga> jrobison has 805 elo for pingpong
 
 Remove ALL elo for a game_type
 ------------------------------
@@ -64,14 +65,6 @@ Remove ALL elo for a game_type
 
     !elo drop pingpong
     helga> consider it done
-
-TODO
-====
-
-* Add result
-* List rating
-* Drop tables
-* Add useful return instead of random acks
 
 License
 =======
