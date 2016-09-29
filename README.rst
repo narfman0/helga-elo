@@ -16,9 +16,6 @@ Add ``elo`` to your settings and restart helga.
 Usage
 =====
 
-Note: Please use punctuation in your text. This is a tough sticking point in
-practice, but it is important to be able to differentiate sentences.
-
 Command syntax::
 
     elo add <game_type> <winning_player_name> <losing_player_name>
