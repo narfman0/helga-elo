@@ -2,6 +2,12 @@
 helga-elo
 =========
 
+.. image:: https://badge.fury.io/py/helga-elo.png
+    :target: https://badge.fury.io/py/helga-elo
+
+.. image:: https://travis-ci.org/narfman0/helga-elo.png?branch=master
+    :target: https://travis-ci.org/narfman0/helga-elo
+
 Provide a system through which you may compare players of arbitrary games
 
 Installation
