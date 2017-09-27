@@ -58,7 +58,7 @@ See player rating
 
 .. code-block::
 
-    !elo pingpong jrobison
+    !elo list pingpong jrobison
     helga> jrobison has 805 elo for pingpong
 
 Remove ALL elo for a game_type
